@@ -1,42 +1,57 @@
 [
     {
-        "romName": "BlissROMs",
-        "path": "bliss",
+        "romName": "Pixel Experience [Normal]",
+        "path": "pixel-normal",
         "deviceData": [
             {
-                "name": "mido",
+                "name": "rosy",
                 "builds": [
                     {
-                        "name": "Bliss-v11.3-Stable-mido-UNOFFICIAL-20181211-0726.zip",
-                        "url": "https://goo.gl/CuFKPu"
+                        "name": "PixelExperience_rosy-9.0-20190313-1657-OFFICIAL.zip",
+                        "url": "http://bit.ly/PixelExperience_rosy-9-20190313-1657-OFFICIAL"
+                    },
+                    {
+                        "name": "PixelExperience_rosy-9.0-20190211-0639-OFFICIAL.zip",
+                        "url": "http://bit.ly/PixelExperience_rosy-9-20190211-0639-OFFICIAL"
                     }
                 ]
             },
             {
-                "name": "santoni",
+                "name": "sakura",
                 "builds": [
                     {
-                        "name": "Bliss-v11.3-Stable-santoni-UNOFFICIAL-20181216-2154.zip",
-                        "url": "https://goo.gl/F2GAZC"
+                        "name": "PixelExperience_sakura-9.0-20190320-0821-OFFICIAL.zip",
+                        "url": "http://bit.ly/2G5lZC4"
                     }
                 ]
             }
         ]
     },
     {
-        "romName": "LineageOS",
-        "path": "lineage",
+        "romName": "Pixel Experience [CAF Edition]",
+        "path": "pixel-caf",
         "deviceData": [
             {
-                "name": "santoni",
+                "name": "rosy",
                 "builds": [
                     {
-                        "name": "lineage-16.0-20190111-UNOFFICIAL-santoni.zip",
-                        "url": "https://drive.google.com/a/my.smccd.edu/uc?id=1EwdAHCPbalWNbfe7J8iKNfX4OKUgXSsf&export=download"
-                    },
+                        "name": "PixelExperience_rosy-9.0-20190222-0633-CAF-OFFICIAL.zip",
+                        "url": "http://bit.ly/2VxpjLC"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "romName": "Nano Kernel [AOSP/LOS]",
+        "path": "nano-beta",
+        "deviceData": [
+            {
+                "name": "rosy",
+                "builds": [
                     {
-                        "name": "lineage-16.0-20181228-UNOFFICIAL-santoni.zip",
-                        "url": "https://goo.gl/moiyrG"
+                        "name": "Nano_Kernel-rosy-20193616-2903-BETA-v3.1.zip",
+                        "url": "http://bit.ly/2WX8yd3"
                     }
                 ]
             }
