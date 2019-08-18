@@ -1,48 +1,5 @@
 [
     {
-        "romName": "Pixel Experience [Normal]",
-        "path": "pixel-normal",
-        "deviceData": [
-            {
-                "name": "rosy",
-                "builds": [
-                    {
-                        "name": "PixelExperience_rosy-9.0-20190313-1657-OFFICIAL.zip",
-                        "url": "http://bit.ly/PixelExperience_rosy-9-20190313-1657-OFFICIAL"
-                    },
-                    {
-                        "name": "PixelExperience_rosy-9.0-20190211-0639-OFFICIAL.zip",
-                        "url": "http://bit.ly/PixelExperience_rosy-9-20190211-0639-OFFICIAL"
-                    }
-                ]
-            },
-            {
-                "name": "sakura",
-                "builds": [
-                    {
-                        "name": "PixelExperience_sakura-9.0-20190320-0821-OFFICIAL.zip",
-                        "url": "http://bit.ly/2G5lZC4"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "romName": "Pixel Experience [CAF Edition]",
-        "path": "pixel-caf",
-        "deviceData": [
-            {
-                "name": "rosy",
-                "builds": [
-                    {
-                        "name": "PixelExperience_rosy-9.0-20190222-0633-CAF-OFFICIAL.zip",
-                        "url": "http://bit.ly/2VxpjLC"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "romName": "Nano Kernel [AOSP/LOS]",
         "path": "nano-beta",
         "deviceData": [
