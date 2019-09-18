@@ -1,17 +1,32 @@
 [
-    {
-        "romName": "Nano Kernel [AOSP/LOS]",
-        "path": "nano-beta",
-        "deviceData": [
-            {
-                "name": "rosy",
-                "builds": [
-                    {
-                        "name": "Nano_Kernel-rosy-20193616-2903-BETA-v3.1.zip",
-                        "url": "http://bit.ly/2WX8yd3"
-                    }
-                ]
-            }
-        ]
-    }
+   {
+      "romName":"Nano Kernel [AOSP/LOS]",
+      "path":"nano-beta",
+      "deviceData":[
+         {
+            "name":"rosy",
+            "builds":[
+               {
+                  "name":"Nano_Kernel-rosy-20193616-2903-BETA-v3.1.zip",
+                  "url":"http://bit.ly/2WX8yd3"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "romName":"Pixel Experience [PIE][TEST]",
+      "path":"pixelexp_norm",
+      "deviceData":[
+         {
+            "name":"rosy",
+            "builds":[
+               {
+                  "name":"Nano_Kernel-rosy-20193616-2903-BETA-v3.1.zip",
+                  "url":"http://bit.ly/2WX8yd3"
+               }
+            ]
+         }
+      ]
+   }
 ]
